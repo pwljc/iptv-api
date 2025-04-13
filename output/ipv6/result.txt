@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-04-13 18:19:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-04-14 06:17:00,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/index.m3u8
 CCTV1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV2,http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250
 CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225619/2/index.m3u8
@@ -48,6 +49,7 @@ CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
 CCTV9,http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,http://yc.myds.me:35455/gaoma/cctv9.m3u8
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225627/2/index.m3u8
 CCTV10,http://nas.suntao.online:35455/gaoma/cctv10.m3u8
